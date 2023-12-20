@@ -1,0 +1,11 @@
+sample_sizes = [10, 100, 500, 1000, 2000, 3000, 4000, 5000, 6000, 7000]
+vec_size = 8
+n = 2
+eng_fiction:
+	113922 bigrams
+eng_tales:
+	99737 bigrams
+
+
+eng_tales_dimensions = [6, 7, 8, 9, 9, 9, 10, 10, 10, 10]
+eng_fiction_dimensions = [6, 8, 8, 9, 9, 9, 9, 9, 9, 9]
